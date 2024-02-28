@@ -1,0 +1,60 @@
+html {
+  background-color: maroon;
+}
+
+body {
+  width: 600px;
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings: "wdth" 100;
+  background-color: white;
+  margin: auto;
+  padding: 10px 75px;
+  border-radius: 20px;
+}
+
+div {
+  letter-spacing: 0.3px;
+  background-color: rgb(235, 235, 235);
+  border: 2px solid grey;
+  padding: 10px 50px;
+}
+
+#span1 {
+  font-variant: small-caps;
+  font-weight: bold;
+  border: 1px solid black;
+}
+
+img {
+  width: 400px;
+  margin: auto;
+  display: block;
+}
+
+#btn1 {
+  padding-top: 5px;
+  background-color: #808000;
+  color: white;
+  border: none;
+  font-size: 18px;
+  font-weight: bold;
+  font-variant: small-caps;
+  cursor: pointer;
+}
+
+h2,
+h3 {
+  color: maroon;
+}
+
+#span2 {
+  color: maroon;
+  font-weight: bold;
+}
+
+h1 {
+  color: #808000;
+}
